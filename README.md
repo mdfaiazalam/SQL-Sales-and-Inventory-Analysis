@@ -30,3 +30,9 @@ This project includes solutions to SQL problems at different levels:
 10. **Churn Analysis** - Identify customers who have reduced spending by 50%.
 11. **Sales Forecasting** - Predict next month's sales based on historical data.
 12. **Inventory Management** - Identify products with low stock and estimate how long inventory will last.
+
+## 🛠 Technologies Used
+- **SQL Server** for executing queries
+- **GitHub** for version control
+
+
