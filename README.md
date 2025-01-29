@@ -25,3 +25,8 @@ This project includes solutions to SQL problems at different levels:
 7. **Customer Segmentation** - Categorize customers based on their total spending.
 8. **Quarterly Sales Trends** - Analyze sales trends on a quarterly basis.
 9. **Cross-Sell Analysis** - Identify products frequently purchased together.
+
+### 🔹 Advanced Level (Coming Soon)
+10. **Churn Analysis** - Identify customers who have reduced spending by 50%.
+11. **Sales Forecasting** - Predict next month's sales based on historical data.
+12. **Inventory Management** - Identify products with low stock and estimate how long inventory will last.
