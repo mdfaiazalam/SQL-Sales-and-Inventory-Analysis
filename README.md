@@ -12,3 +12,10 @@ The database consists of the following tables:
 
 ## 🔍 Solved Problems
 This project includes solutions to SQL problems at different levels:
+
+### 🔹 Beginner Level
+1. **Top Performing Products** - Identify the top 10 products by total sales revenue.
+2. **Inactive Customers** - Find customers who haven't placed an order in the last 6 months.
+3. **Total Revenue by Category** - Calculate total revenue for each product category.
+4. **Average Order Value** - Compute the average order value across all customers.
+5. **Orders with Discounts** - Find all orders where a discount was applied and calculate revenue after discounts.
