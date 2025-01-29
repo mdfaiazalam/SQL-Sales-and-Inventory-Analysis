@@ -19,3 +19,9 @@ This project includes solutions to SQL problems at different levels:
 3. **Total Revenue by Category** - Calculate total revenue for each product category.
 4. **Average Order Value** - Compute the average order value across all customers.
 5. **Orders with Discounts** - Find all orders where a discount was applied and calculate revenue after discounts.
+
+### 🔸 Intermediate Level
+6. **Region-Wise Revenue Analysis** - Determine which regions contributed the most to overall sales.
+7. **Customer Segmentation** - Categorize customers based on their total spending.
+8. **Quarterly Sales Trends** - Analyze sales trends on a quarterly basis.
+9. **Cross-Sell Analysis** - Identify products frequently purchased together.
