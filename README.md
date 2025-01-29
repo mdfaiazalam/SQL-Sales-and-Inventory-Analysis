@@ -4,3 +4,8 @@ This repository contains SQL queries for various data analytics problems using a
 
 ## 📂 Database Schema
 The database consists of the following tables:
+- **Products**: Contains details about the products sold.
+- **Customers**: Stores customer information.
+- **Orders**: Records order details with timestamps.
+- **OrderDetails**: Stores line-item details for each order.
+- **Regions**: Provides regional sales data.
