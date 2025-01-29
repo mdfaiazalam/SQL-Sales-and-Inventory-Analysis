@@ -9,3 +9,6 @@ The database consists of the following tables:
 - **Orders**: Records order details with timestamps.
 - **OrderDetails**: Stores line-item details for each order.
 - **Regions**: Provides regional sales data.
+
+## 🔍 Solved Problems
+This project includes solutions to SQL problems at different levels:
